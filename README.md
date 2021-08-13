@@ -1,3 +1,3 @@
 # TestTraining
-Hello Main kakak Phuc
+Hello Main
 Hello You 
